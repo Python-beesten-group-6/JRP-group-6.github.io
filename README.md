@@ -2,9 +2,7 @@
 <html>
 <body>
 
-<h1>My First Heading</h1>
-
-<p>My first paragraph.</p>
+<h1>Here are our assigments for the Data 1 course</h1>
 
 </body>
 </html>
